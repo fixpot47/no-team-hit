@@ -38,7 +38,6 @@ public final class NoTeamHitScreen extends Screen {
         nameBox.setX(centerX - 110);
         nameBox.setY(50);
         nameBox.setMaxLength(16);
-        nameBox.setFilter(text -> text.matches("[A-Za-z0-9_]*"));
         nameBox.setValue(initialInput);
         addRenderableWidget(nameBox);
 
