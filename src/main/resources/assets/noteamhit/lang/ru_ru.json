@@ -1,0 +1,16 @@
+{
+  "key.noteamhit.open_menu": "Открыть меню No Team Hit",
+  "key.categories.noteamhit.controls": "No Team Hit",
+  "screen.noteamhit.title": "No Team Hit",
+  "screen.noteamhit.hint": "Добавь тиммейтов, которых не хочешь случайно ударить",
+  "screen.noteamhit.input": "Ник игрока",
+  "screen.noteamhit.add": "Добавить",
+  "screen.noteamhit.done": "Готово",
+  "screen.noteamhit.count": "Защищённых игроков: %s / 8",
+  "screen.noteamhit.empty": "Пока никого нет",
+  "screen.noteamhit.added": "%s добавлен",
+  "screen.noteamhit.removed": "%s удалён",
+  "screen.noteamhit.invalid": "Некорректный ник Minecraft",
+  "screen.noteamhit.duplicate": "%s уже в списке",
+  "screen.noteamhit.full": "Список заполнен"
+}
