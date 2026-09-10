@@ -1,0 +1,16 @@
+{
+  "key.noteamhit.open_menu": "Open No Team Hit menu",
+  "key.categories.noteamhit.controls": "No Team Hit",
+  "screen.noteamhit.title": "No Team Hit",
+  "screen.noteamhit.hint": "Add teammates you do not want to hit",
+  "screen.noteamhit.input": "Player name",
+  "screen.noteamhit.add": "Add",
+  "screen.noteamhit.done": "Done",
+  "screen.noteamhit.count": "Protected players: %s / 8",
+  "screen.noteamhit.empty": "No protected players yet",
+  "screen.noteamhit.added": "Added %s",
+  "screen.noteamhit.removed": "Removed %s",
+  "screen.noteamhit.invalid": "Invalid Minecraft username",
+  "screen.noteamhit.duplicate": "%s is already protected",
+  "screen.noteamhit.full": "The protected list is full"
+}
