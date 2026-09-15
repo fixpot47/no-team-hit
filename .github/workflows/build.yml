@@ -30,7 +30,7 @@ jobs:
       - name: Upload mod jar
         uses: actions/upload-artifact@v4
         with:
-          name: no-team-hit-26.2
+          name: no-team-hit-1.1.0-26.3
           path: |
             build/libs/*.jar
             !build/libs/*-sources.jar
