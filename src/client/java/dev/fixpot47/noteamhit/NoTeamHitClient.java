@@ -1,6 +1,5 @@
 package dev.fixpot47.noteamhit;
 
-import com.mojang.blaze3d.platform.InputConstants;
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.fabric.api.client.event.lifecycle.v1.ClientTickEvents;
 import net.fabricmc.fabric.api.client.keymapping.v1.KeyMappingHelper;
@@ -26,8 +25,7 @@ public final class NoTeamHitClient implements ClientModInitializer {
 
         openMenuKey = KeyMappingHelper.registerKeyMapping(new KeyMapping(
                 "key.noteamhit.open_menu",
-                InputConstants.Type.KEYSYM,
-                InputConstants.KEY_O,
+                com.mojang.blaze3d.platform.InputConstants.KEY_O,
                 CATEGORY
         ));
 
